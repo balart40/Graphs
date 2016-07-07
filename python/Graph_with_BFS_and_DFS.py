@@ -1,4 +1,7 @@
-#Graph implementation by Francisco Eduardo Balart Sanchez
+# Graph implementation by Francisco Eduardo Balart Sanchez
+# Breath First Search (BFS) and Depth First Search (DFS) implementations
+# This was developed to be tested on http://www.codeskulptor.org
+# You may require to do changes if want to run this locally
 # imports
 import math
 import random
