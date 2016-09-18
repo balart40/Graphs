@@ -1,5 +1,6 @@
-#Graph implementation by Francisco Eduardo Balart Sanchez
+# Graph implementation by Francisco Eduardo Balart Sanchez
 # Prims minimum spanning tree algorithm python implementation 
+# Codeskulptor link to run http://www.codeskulptor.org/#user42_GIiXkMFKW7ZEuhy.py
 # imports
 import math
 import random
